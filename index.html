@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171816">
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="ANLAV is a Bangalore web design studio in 560001 creating modern, responsive websites for businesses that want to stand out, convert more customers, and grow online.">
+  <meta name="geo.region" content="IN-KA">
+  <meta name="geo.placename" content="Bangalore 560001">
+  <meta name="geo.position" content="12.9716;77.5946">
+  <meta name="ICBM" content="12.9716, 77.5946">
+  <meta name="geo.country" content="IN">
+  <meta name="language" content="en">
+  <meta name="author" content="ANLAV">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="index.html">
+  <meta property="og:title" content="ANLAV® — Bangalore Web Design Studio | Website Design & Development">
+  <meta property="og:description" content="Modern, responsive and conversion-focused websites designed to turn ideas into memorable digital experiences.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=85">
+  <link rel="canonical" href="index.html">
+  <title>ANLAV® — Bangalore Web Design Studio | Website Design & Development</title>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "ANLAV",
+      "description": "Digital web studio in Bangalore 560001 creating modern, responsive websites for businesses that want to stand out and grow online.",
+      "url": "index.html",
+      "telephone": "+91 8186063932",
+      "email": "mailto:anilkumarpunagani723@gmail.com",
+      "areaServed": ["Bangalore 560001", "Bengaluru", "India", "Worldwide"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bangalore 560001",
+        "addressLocality": "Bangalore",
+        "postalCode": "560001",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/",
+        "https://github.com/",
+        "https://www.instagram.com/"
+      ]
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://images.unsplash.com">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" id="top">
+    <nav class="nav shell" aria-label="Main navigation">
+      <a class="wordmark" href="#home" aria-label="ANLAV home">ANLAV<span>®</span></a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation menu" aria-expanded="false" aria-controls="nav-links">
+        <span></span><span></span>
+      </button>
+      <div class="nav-links" id="nav-links">
+        <a class="nav-link is-active" href="#home">Home</a>
+        <a class="nav-link" href="#work">Work</a>
+        <a class="nav-link" href="#services">Services</a>
+        <a class="nav-link" href="#about">About</a>
+        <a class="nav-link" href="#process">Process</a>
+        <a class="nav-link" href="#contact">Contact</a>
+        <a class="nav-cta" href="mailto:anilkumarpunagani723@gmail.com">Let's Talk <span aria-hidden="true">↗</span></a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero dark-section" id="home" aria-labelledby="hero-title">
+      <div class="hero-grain" aria-hidden="true"></div>
+      <div class="hero-inner shell">
+        <div class="hero-copy">
+          <p class="eyebrow hero-eyebrow"><span class="status-dot"></span> ANLAV — DIGITAL WEB STUDIO</p>
+          <h1 id="hero-title">BANGALORE WEB DESIGN & DEVELOPMENT THAT MAKES BUSINESSES <span>STAND OUT.</span></h1>
+          <p class="hero-description">We design and build modern websites that look exceptional, perform beautifully and help businesses grow.</p>
+          <div class="hero-actions">
+            <a class="button button-lime" href="#work">View Our Work <span aria-hidden="true">↘</span></a>
+            <a class="button button-quiet" href="service.html?service=web-design">Start a Project <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="hero-footnote"><span>INDEPENDENT CREATIVE STUDIO</span><span>AVAILABLE FOR SELECT PROJECTS <i class="status-dot"></i></span></div>
+        </div>
+        <div class="hero-visual" aria-label="Preview of a fictional architecture studio website">
+          <div class="visual-index"><span>SELECTED DIGITAL WORK</span><span>01 / 04</span></div>
+          <div class="browser-window hero-browser">
+            <div class="browser-bar"><div class="browser-dots"><i></i><i></i><i></i></div><span class="browser-url">atelier-north.co</span><span class="browser-expand" aria-hidden="true">↗</span></div>
+            <div class="hero-site-preview">
+              <img src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=85" alt="Sunlit contemporary architecture interior with sculptural furniture" fetchpriority="high">
+              <div class="preview-nav"><span>ATELIER / N°04</span><span>MENU <b>+</b></span></div>
+              <div class="preview-copy"><span>SPACES WITH INTENTION</span><strong>Form follows<br>feeling.</strong><span class="preview-link">EXPLORE THE STUDIO <b>↗</b></span></div>
+              <span class="preview-index">EST. 2018 — COPENHAGEN</span>
+            </div>
+          </div>
+          <div class="float-note float-note-top"><span class="note-icon">✳</span><span>DESIGN THAT<br>DOES MORE</span></div>
+          <div class="float-note float-note-bottom"><span class="mini-spark">↗</span><span>Thoughtfully made.<br>Ready to grow.</span></div>
+          <div class="hero-orbit" aria-hidden="true"></div>
+        </div>
+      </div>
+      <a class="hero-scroll" href="#intro"><span class="scroll-line"></span> SCROLL TO EXPLORE</a>
+    </section>
+
+    <section class="intro section-pad" id="intro" aria-labelledby="intro-title">
+      <div class="shell intro-grid reveal">
+        <p class="eyebrow section-label"><span>THE BIGGER PICTURE</span><span>—</span></p>
+        <div class="intro-content">
+          <h2 id="intro-title">YOUR WEBSITE IS <span>MORE THAN</span> A WEBSITE.</h2>
+          <div class="intro-bottom"><span class="accent-rule" aria-hidden="true"></span><p>It's your first impression, your digital storefront and one of the most important ways customers experience your brand. <span class="intro-subline">Modern, responsive and conversion-focused websites designed to turn ideas into memorable digital experiences.</span></p></div>
+        </div>
+        <span class="intro-index" aria-hidden="true">A GOOD FIRST<br>IMPRESSION<br>GOES A LONG WAY.</span>
+      </div>
+    </section>
+
+    <section class="work section-pad" id="work" aria-labelledby="work-title">
+      <div class="shell">
+        <div class="section-heading reveal"><p class="eyebrow section-label"><span>01 — SELECTED WORK</span><span>2024 — 2026</span></p><div class="heading-row"><h2 id="work-title">Projects That Speak<br><span>For Themselves.</span></h2><p class="heading-aside">A few ideas, brought<br>to life with intention.</p></div></div>
+        <div class="project-grid">
+          <article class="project-card project-nova reveal" id="project-nova" data-project="nova">
+            <button class="project-art" type="button" aria-label="View Nova Business project details" data-open-project="nova">
+              <span class="project-art-label">CORPORATE / 2026</span>
+              <div class="mock-site mock-nova"><div class="mock-top"><b>NOVA<span>.</span></b><span>ABOUT &nbsp; SOLUTIONS &nbsp; INSIGHTS</span><i>LET'S TALK ↗</i></div><div class="mock-body"><span>BUILT FOR WHAT'S NEXT</span><strong>Clarity in<br>every move.</strong><small>Strategy for a changing world.</small><span class="mock-link">DISCOVER NOVA&nbsp; ↗</span></div><img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80" alt="Geometric modern office architecture viewed from below" loading="lazy"><span class="mock-caption">01 — A MORE HUMAN KIND OF BUSINESS</span></div>
+              <span class="art-corner">↗</span>
+            </button>
+            <div class="project-meta"><div><p class="eyebrow project-number">01 / CORPORATE</p><h3>Nova Business</h3><p class="project-description">A clearer perspective for a business moving forward.</p></div><button class="text-link" type="button" data-open-project="nova">View Project <span aria-hidden="true">↗</span></button></div>
+            <ul class="tag-list" aria-label="Technologies"><li>Strategy</li><li>Web Design</li><li>Development</li></ul>
+          </article>
+          <article class="project-card project-velora reveal" id="project-velora" data-project="velora">
+            <button class="project-art" type="button" aria-label="View Velora Store project details" data-open-project="velora">
+              <span class="project-art-label">E-COMMERCE / 2026</span>
+              <div class="mock-site mock-velora"><div class="mock-top"><b>VELORA</b><span>NEW IN &nbsp; COLLECTION &nbsp; JOURNAL</span><i>BAG (0)</i></div><div class="velora-photo"><img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=85" alt="Fashion shoppers browsing a thoughtfully styled collection" loading="lazy"><span>THE EVERYDAY<br>EDIT</span><i>DISCOVER THE COLLECTION ↗</i></div><span class="velora-side">MADE TO MOVE WITH YOU · VOL. 02</span></div>
+              <span class="art-corner">↗</span>
+            </button>
+            <div class="project-meta"><div><p class="eyebrow project-number">02 / E-COMMERCE</p><h3>Velora Store</h3><p class="project-description">A considered shopping experience, down to the last detail.</p></div><button class="text-link" type="button" data-open-project="velora">View Project <span aria-hidden="true">↗</span></button></div>
+            <ul class="tag-list" aria-label="Technologies"><li>Art Direction</li><li>E-commerce</li><li>UX / UI</li></ul>
+          </article>
+          <article class="project-card project-apex reveal" id="project-apex" data-project="apex">
+            <button class="project-art" type="button" aria-label="View Apex Studio project details" data-open-project="apex">
+              <span class="project-art-label">CREATIVE / 2025</span>
+              <div class="mock-site mock-apex"><div class="mock-top"><b>APEX®</b><span>WORK&nbsp; ABOUT&nbsp; NOTES</span><i>START A PROJECT ↗</i></div><div class="apex-photo"><img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1000&q=85" alt="Light-filled creative studio with a long collaborative worktable" loading="lazy"><span>Good ideas<br>need room.</span><i>INDEPENDENT CREATIVE COMPANY</i></div><div class="apex-bottom"><span>BRANDING — DIGITAL — CAMPAIGNS</span><b>LESS, BUT BETTER.</b></div></div>
+              <span class="art-corner">↗</span>
+            </button>
+            <div class="project-meta"><div><p class="eyebrow project-number">03 / CREATIVE STUDIO</p><h3>Apex Studio</h3><p class="project-description">A confident online home for a studio with a point of view.</p></div><button class="text-link" type="button" data-open-project="apex">View Project <span aria-hidden="true">↗</span></button></div>
+            <ul class="tag-list" aria-label="Technologies"><li>Creative Direction</li><li>Web Design</li><li>React</li></ul>
+          </article>
+          <article class="project-card project-monarch reveal" id="project-monarch" data-project="monarch">
+            <button class="project-art" type="button" aria-label="View Monarch project details" data-open-project="monarch">
+              <span class="project-art-label">LUXURY / 2025</span>
+              <div class="mock-site mock-monarch"><div class="mock-top"><b>MONARCH</b><span>COLLECTIONS &nbsp; OUR WORLD</span><i>EN / USD</i></div><div class="monarch-photo"><img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=85" alt="Editorial fashion portrait in a tailored modern silhouette" loading="lazy"><span>THE ART OF<br>ARRIVING.</span><i>VIEW THE COLLECTION&nbsp; ↗</i></div><span class="monarch-edition">A STUDY IN FORM · NO. 009</span></div>
+              <span class="art-corner">↗</span>
+            </button>
+            <div class="project-meta"><div><p class="eyebrow project-number">04 / LUXURY BRAND</p><h3>Monarch</h3><p class="project-description">An editorial digital world for a new kind of luxury.</p></div><button class="text-link" type="button" data-open-project="monarch">View Project <span aria-hidden="true">↗</span></button></div>
+            <ul class="tag-list" aria-label="Technologies"><li>Art Direction</li><li>Storytelling</li><li>Web Design</li></ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="services section-pad dark-section" id="services" aria-labelledby="services-title">
+      <div class="shell"><div class="section-heading reveal"><p class="eyebrow section-label"><span>02 — WHAT WE DO</span><span>THOUGHTFUL BY DESIGN</span></p><div class="heading-row"><h2 id="services-title">Everything You Need To Build<br><span>A Strong Digital Presence.</span></h2><p class="heading-aside">From first sketch to<br>the final launch.</p></div></div>
+        <div class="service-grid">
+          <article class="service-item reveal"><div class="service-top"><span class="service-number">01</span><span class="service-icon icon-cross" aria-hidden="true">✳</span></div><h3>WEB DESIGN</h3><p>Beautiful interfaces designed around your brand, audience and goals.</p><a href="service.html?service=web-design" aria-label="Explore web design services and pricing">↗</a></article>
+          <article class="service-item reveal"><div class="service-top"><span class="service-number">02</span><span class="service-icon" aria-hidden="true">⌘</span></div><h3>WEB DEVELOPMENT</h3><p>Fast, responsive and reliable websites built with clean modern code.</p><a href="service.html?service=web-development" aria-label="Explore web development services and pricing">↗</a></article>
+          <article class="service-item reveal"><div class="service-top"><span class="service-number">03</span><span class="service-icon" aria-hidden="true">↗</span></div><h3>WEBSITE MAINTENANCE</h3><p>Ongoing updates, monitoring and support to keep your website running smoothly.</p><a href="service.html?service=maintenance" aria-label="Explore website maintenance services and pricing">↗</a></article>
+          <article class="service-item reveal"><div class="service-top"><span class="service-number">04</span><span class="service-icon icon-square" aria-hidden="true">▧</span></div><h3>WEBSITE REDESIGN</h3><p>Transform outdated websites into modern, engaging digital experiences.</p><a href="service.html?service=redesign" aria-label="Explore website redesign services and pricing">↗</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="purpose section-pad" aria-labelledby="purpose-title">
+      <div class="shell purpose-grid"><div class="purpose-lead reveal"><p class="eyebrow section-label">A LITTLE DIFFERENT, BY DESIGN</p><h2 id="purpose-title">BUILT WITH<br><span>PURPOSE.</span></h2><p>We don't just make websites look good. We create digital experiences with a clear purpose.</p><a class="text-link" href="#about">Get to know us <span aria-hidden="true">↗</span></a><div class="purpose-stamp" aria-hidden="true"><span>MADE TO<br>MATTER</span><b>✳</b></div></div><div class="feature-list">
+          <div class="feature-row reveal"><span class="feature-number" data-count="1">01</span><h3>Responsive Design</h3><span class="feature-mark">↗</span></div>
+          <div class="feature-row reveal"><span class="feature-number" data-count="2">02</span><h3>Fast Performance</h3><span class="feature-mark">↗</span></div>
+          <div class="feature-row reveal"><span class="feature-number" data-count="3">03</span><h3>Mobile First</h3><span class="feature-mark">↗</span></div>
+          <div class="feature-row reveal"><span class="feature-number" data-count="4">04</span><h3>SEO Friendly</h3><span class="feature-mark">↗</span></div>
+          <div class="feature-row reveal"><span class="feature-number" data-count="5">05</span><h3>Clean Code</h3><span class="feature-mark">↗</span></div>
+          <div class="feature-row reveal"><span class="feature-number" data-count="6">06</span><h3>Easy Maintenance</h3><span class="feature-mark">↗</span></div>
+        </div></div>
+    </section>
+
+    <section class="process section-pad" id="process" aria-labelledby="process-title">
+      <div class="shell"><div class="section-heading reveal"><p class="eyebrow section-label"><span>03 — OUR PROCESS</span><span>GOOD WORK, MADE TOGETHER</span></p><div class="heading-row"><h2 id="process-title">FROM IDEA<br><span>TO LAUNCH.</span></h2><p class="heading-aside">A clear process.<br>No mystery. No fuss.</p></div></div>
+        <div class="process-grid"><article class="process-step reveal"><span class="process-count">01 <i>— STEP ONE</i></span><span class="process-symbol" aria-hidden="true">◉</span><h3>DISCOVER</h3><p>Understand the business, audience and goals.</p></article><article class="process-step reveal"><span class="process-count">02 <i>— STEP TWO</i></span><span class="process-symbol" aria-hidden="true">⌁</span><h3>DESIGN</h3><p>Create the visual direction and user experience.</p></article><article class="process-step reveal"><span class="process-count">03 <i>— STEP THREE</i></span><span class="process-symbol" aria-hidden="true">⌘</span><h3>BUILD</h3><p>Turn the design into a fast, responsive website.</p></article><article class="process-step reveal"><span class="process-count">04 <i>— STEP FOUR</i></span><span class="process-symbol" aria-hidden="true">↗</span><h3>LAUNCH</h3><p>Test, optimize and launch the finished product.</p></article></div>
+      </div>
+    </section>
+
+    <section class="about section-pad" id="about" aria-labelledby="about-title">
+      <div class="shell about-grid"><div class="about-image-wrap reveal"><img src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=85" alt="Creative team collaborating around a table in a light-filled studio" loading="lazy"><span class="image-caption">GOOD WORK HAPPENS TOGETHER <i>— ANLAV STUDIO</i></span><span class="about-image-stamp" aria-hidden="true">A<span>®</span></span></div><div class="about-copy reveal"><p class="eyebrow section-label">A SMALL STUDIO WITH BIG CARE</p><h2 id="about-title">WE CARE ABOUT<br>THE <span>DETAILS.</span></h2><p class="about-paragraph">ANLAV combines creative design, technical thinking and attention to detail to create websites that are visually impressive and genuinely useful.</p><p class="about-note">Based in Bangalore 560001 and working with businesses across India and beyond, we help brands create clearer digital experiences that support real growth.</p><a class="text-link" href="mailto:anilkumarpunagani723@gmail.com">A little more about us <span aria-hidden="true">↗</span></a><div class="about-signature"><span class="wordmark">ANLAV<span>®</span></span><span>DIGITAL, WITH INTENTION.</span></div></div></div>
+    </section>
+
+    <section class="tech section-pad" aria-labelledby="tech-title"><div class="shell tech-inner reveal"><div><p class="eyebrow section-label">THE RIGHT TOOLS FOR THE JOB</p><h2 id="tech-title">BUILT WITH<br><span>MODERN TECHNOLOGY.</span></h2></div><ul class="tech-list" aria-label="Technologies used"><li>HTML5</li><li>CSS3</li><li>JavaScript</li><li>React</li><li>Next.js</li><li>Node.js</li><li>Figma</li><li>Git</li></ul></div></section>
+
+    <section class="testimonials section-pad" aria-labelledby="testimonial-title"><div class="shell"><div class="section-heading reveal"><p class="eyebrow section-label"><span>A FEW KIND WORDS</span><span>IN GOOD COMPANY</span></p><div class="heading-row"><h2 id="testimonial-title">WHAT CLIENTS<br><span>SAY.</span></h2><p class="heading-aside">Good partnerships<br>make great work.</p></div></div><div class="quote-grid"><article class="quote-card reveal"><span class="quote-mark" aria-hidden="true">“</span><blockquote>ANLAV took the time to really understand our business. The new site feels like us, only clearer and more confident.</blockquote><div class="client"><span class="avatar avatar-one" aria-hidden="true">JM</span><div><strong>Jordan Mitchell</strong><span>Founder, Nova Business</span></div><span class="client-arrow" aria-hidden="true">↗</span></div></article><article class="quote-card reveal"><span class="quote-mark" aria-hidden="true">“</span><blockquote>The whole process felt considered and collaborative. Our online store is a completely different experience now.</blockquote><div class="client"><span class="avatar avatar-two" aria-hidden="true">AS</span><div><strong>Alexandra Stone</strong><span>Director, Velora</span></div><span class="client-arrow" aria-hidden="true">↗</span></div></article><article class="quote-card reveal"><span class="quote-mark" aria-hidden="true">“</span><blockquote>Thoughtful design, sharp execution and absolutely no drama. We couldn't be happier with where we landed.</blockquote><div class="client"><span class="avatar avatar-three" aria-hidden="true">RK</span><div><strong>Riley Kim</strong><span>Creative Lead, Apex Studio</span></div><span class="client-arrow" aria-hidden="true">↗</span></div></article></div><p class="placeholder-note">Sample testimonials shown for presentation. Client feedback can be added here.</p></div></section>
+
+    <section class="contact dark-section" id="contact" aria-labelledby="contact-title"><div class="contact-noise" aria-hidden="true"></div><div class="shell contact-inner reveal"><p class="eyebrow section-label"><span>HAVE A GOOD ONE IN MIND?</span><span>LET'S MAKE IT REAL.</span></p><span class="contact-spark" aria-hidden="true">✳</span><h2 id="contact-title">HAVE AN IDEA?<br><span>LET'S BUILD SOMETHING GREAT.</span></h2><div class="contact-bottom"><p>Tell us about your project and let's turn your idea into a digital experience.</p><div class="contact-actions"><a class="button button-lime button-large" href="service.html?service=web-design">Start A Project <span aria-hidden="true">↗</span></a><a class="button button-quiet button-large" href="https://wa.me/8186063932" target="_blank" rel="noopener noreferrer">WhatsApp <span aria-hidden="true">↗</span></a></div></div><span class="contact-loop contact-loop-one" aria-hidden="true"></span><span class="contact-loop contact-loop-two" aria-hidden="true"></span></div></section>
+  </main>
+
+  <footer class="footer dark-section"><div class="shell"><div class="footer-top"><div class="footer-brand"><a class="footer-logo" href="#home" aria-label="ANLAV home">ANLAV<span>®</span></a><p>Designing better digital experiences.</p><p>Based in India • Serving businesses worldwide.</p></div><div class="footer-column"><span class="eyebrow">EXPLORE</span><a href="#home">Home</a><a href="#work">Work</a><a href="#services">Services</a><a href="#about">About</a><a href="#contact">Contact</a></div><div class="footer-column"><span class="eyebrow">SAY HELLO</span><a href="mailto:anilkumarpunagani723@gmail.com">anilkumarpunagani723@gmail.com</a><a href="https://wa.me/8186063932" target="_blank" rel="noopener noreferrer">WhatsApp: +91 8186063932</a><span class="eyebrow social-label">ELSEWHERE</span><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram ↗</a></div><div class="footer-aside"><span class="footer-star" aria-hidden="true">✳</span><span>INDEPENDENT BY DESIGN.<br>CONNECTED BY THE INTERNET.</span></div></div><div class="footer-bottom"><span>© 2026 ANLAV. ALL RIGHTS RESERVED.</span><a href="#top">BACK TO TOP ↑</a><span>DESIGNED WITH INTENTION.</span></div></div></footer>
+
+  <a class="whatsapp-float" href="https://wa.me/8186063932" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">WhatsApp</a>
+  <button class="back-to-top" type="button" aria-label="Back to top">↑</button>
+  <dialog class="project-dialog" aria-labelledby="dialog-title"><button class="dialog-close" type="button" aria-label="Close project details">×</button><p class="eyebrow dialog-kicker">SELECTED PROJECT / <span></span></p><h2 id="dialog-title"></h2><p class="dialog-description"></p><div class="dialog-bottom"><ul class="tag-list dialog-tags"></ul><a class="text-link" href="#contact">Discuss a similar project <span aria-hidden="true">↗</span></a></div></dialog>
+</body>
+</html>
